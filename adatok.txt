@@ -1,0 +1,12 @@
+neptun_kód: ZTCY68
+szak: Mérnökinformatikus
+név: Márki Csaba
+
+Járatatok
+SH-80879 (Lehet jegyet foglalni)
+SH-80889 (Lehet jegyet foglalni)
+SH-80909 (Nem lehet jegyet foglalni 2024-01-01-es járat)
+
+AB-10 (Lehet jegyet foglalni)
+AB-11 (Lehet jegyet foglalni)
+AB-12 (Nem lehet jegyet foglalni 2024-01-01-es járat)
